@@ -1,3 +1,4 @@
+
 # 🚢 Titanic Survival Prediction with Scikit-learn
 
 This project builds a machine learning model to predict passenger survival on the Titanic using structured data.
